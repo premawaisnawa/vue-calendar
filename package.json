@@ -41,7 +41,6 @@
     },
     "parserOptions": {
       "parser": "babel-eslint"
-
     }
   },
   "postcss": {
