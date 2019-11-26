@@ -38,7 +38,7 @@
         </v-toolbar>
       </v-sheet>
 
-      <!-- Add event dialog -->
+      <!-- Add event dialog e -->
       <v-dialog v-model="dialog" max-width="500">
         <v-card>
           <v-container>
